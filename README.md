@@ -2,8 +2,6 @@
 
 This repository contains a complete Spring Boot 3 microservices architecture implementation with authentication, monitoring, and messaging.
 
-You can watch the tutorial on Youtube [here](https://youtu.be/yn_stY3HCr8?si=EjrBEUl0P-bzSWRG)
-
 ## Services Overview
 
 - **Product Service** - MongoDB-based product catalog management
