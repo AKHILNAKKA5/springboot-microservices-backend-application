@@ -24,9 +24,6 @@ The technologies used in this project are:
 - **Test Containers with Wiremock** - Integration testing
 - **Kubernetes** - Container orchestration
 
-## Application Architecture
-![image](https://github.com/user-attachments/assets/d4ef38bd-8ae5-4cc7-9ac5-7a8e5ec3c969)
-
 ## Quick Start with Docker Compose
 
 ### Prerequisites
